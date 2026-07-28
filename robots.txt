@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ychm3a.wedang77land.store/sitemap.xml
